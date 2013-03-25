@@ -12,6 +12,8 @@
 // 3. Send CODE_ArmB
 // 4. Send CODE_Base + 255 (40255)
 
+// You can add these codes as custom commands on your Dashsboard.  
+
 #include <RCSwitch.h>
 RCSwitch mySwitch = RCSwitch();
 
