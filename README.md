@@ -1,4 +1,4 @@
-#Wireless Nina's eyes in a T\_Shirt
+#Wireless Nina's eyes in a T-Shirt
 
 by @justy
 
