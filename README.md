@@ -22,4 +22,5 @@ For example, to make purple you would:
 3. Send CODE\_ArmB
 4. Send CODE\_Base + 255 (40255)
 
-
+This code accompanies a how-to found here:
+ http://ninjablocks.com/blogs/how-to/7559040-make-a-wearable-ninas-eyes-t-shirt
