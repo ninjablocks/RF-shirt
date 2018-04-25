@@ -1,4 +1,4 @@
-# Wireless Nina's eyes in a T-Shirt
+# Wireless Ninja's eyes in a T-Shirt
 
 by [@justy](https://github.com/justy)
 
